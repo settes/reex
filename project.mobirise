@@ -217,7 +217,7 @@
               }
             },
             ".navbar.navbar-short": {
-              "min-height": "40px",
+              "min-height": "77px",
               "transition": "all .2s",
               "& .navbar-toggler-right": {
                 "top": "20px"
@@ -230,7 +230,7 @@
                   "font-size": "2.5rem !important"
                 },
                 "& img": {
-                  "height": "2rem !important"
+                  "height": "2.3rem !important"
                 }
               },
               "& .navbar-brand": {
