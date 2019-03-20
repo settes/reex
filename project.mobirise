@@ -10,7 +10,7 @@
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
-        "warningColor": "#879A9F",
+        "warningColor": "#4d4d4d",
         "dangerColor": "#149dcc",
         "mainFont": "Rubik",
         "display1Font": "Montserrat",
@@ -22,7 +22,7 @@
         "display7Font": "Montserrat",
         "display7Size": 1,
         "display4Font": "Montserrat",
-        "display4Size": "0.8",
+        "display4Size": "0.6",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
@@ -32,7 +32,8 @@
         "#553282",
         "#494949",
         "#696969",
-        "#f7f7f7"
+        "#f7f7f7",
+        "#4d4d4d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -62,7 +63,7 @@
     "gdpr": "",
     "сanonical-url": "",
     "uniqCompNum": 16,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
   "pages": {
