@@ -582,7 +582,7 @@
               "border-radius": "50%",
               "border": "2px solid @lineColor",
               "padding-bottom": "0",
-              "color": "#2bc1c7"
+              "color": "#440e76"
             },
             "@media (min-width: 768px)": {
               ".separline": {
