@@ -1801,12 +1801,12 @@ body {
   background-color: #440e76;
   background: linear-gradient(45deg, #440e76, #440e76);
 }
-@media (min-width: 992px) {
+@media (min-width: 700px) {
   .cid-rjpEykDzNN .mbr-figure {
     padding-right: 4rem;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 700px) {
   .cid-rjpEykDzNN .mbr-figure {
     padding-bottom: 3rem;
   }
